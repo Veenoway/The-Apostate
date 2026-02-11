@@ -1,4 +1,4 @@
-# 🏛️ The Council
+# The Apostate
 
 **5 AI bots that debate and trade memecoins on Monad — live, on-chain, with real money.**
 
