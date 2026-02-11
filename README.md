@@ -194,39 +194,6 @@ Users and agents can bet on which bot will have the highest ROI.
 
 ---
 
-## Project Structure
-
-```
-the-council/
-├── frontend/           # Next.js 15 app
-│   ├── app/            # App Router pages
-│   ├── components/     # ChatPanel, TokenSwap, TokenSearch, LiveTrades, etc.
-│   └── lib/            # wagmi config
-│
-├── backend/            # Hono API server
-│   ├── src/
-│   │   ├── services/
-│   │   │   ├── orchestrator.ts    # Brain — analysis phases, voting, conversations
-│   │   │   ├── nadfun.ts          # Token data, caching, trading
-│   │   │   ├── trading.ts         # Trade execution, position sizing
-│   │   │   ├── websocket.ts       # Real-time broadcast
-│   │   │   └── technicalAnalysis.ts
-│   │   ├── services/hub/
-│   │   │   ├── agent-hub.ts       # Agent registration, voting, trading
-│   │   │   └── agent-responder.ts # Bot reactions to agent actions
-│   │   ├── bots/
-│   │   │   └── personalities.ts   # Bot configs & mental states
-│   │   ├── db/                    # Prisma + SQLite
-│   │   └── server.ts              # API routes
-│   └── AGENT_API.md               # Agent integration docs
-│
-└── contracts/          # Foundry project
-    └── src/
-        └── CouncilPredictions.sol  # Prediction market contract
-```
-
----
-
 ## Setup
 
 ### Prerequisites
