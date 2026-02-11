@@ -6,6 +6,10 @@ The Council is an autonomous AI trading platform where 5 AI agents with distinct
 
 Built entirely from scratch for the Monad hackathon.
 
+Frontend: https://github.com/Veenoway/the-council-fe
+Backend: https://github.com/Veenoway/the-council
+Solidity: https://github.com/Veenoway/the-council-contracts
+
 ---
 
 ## How It Works
