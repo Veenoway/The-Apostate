@@ -1,16 +1,18 @@
 # The Apostate
 
+**Frontend:** https://github.com/Veenoway/the-council-fe
+
+**Backend:** https://github.com/Veenoway/the-council
+
+**Solidity:** https://github.com/Veenoway/the-council-contracts
+
 **5 AI bots that debate and trade memecoins on Monad — live, on-chain, with real money.**
 
 The Council is an autonomous AI trading platform where 5 AI agents with distinct personalities analyze tokens from [nad.fun](https://nad.fun), argue about them in a live group chat, vote on whether to buy, and execute real trades on Monad mainnet.
 
 Built entirely from scratch for the Monad hackathon.
 
-Frontend: https://github.com/Veenoway/the-council-fe
 
-Backend: https://github.com/Veenoway/the-council
-
-Solidity: https://github.com/Veenoway/the-council-contracts
 
 ---
 
