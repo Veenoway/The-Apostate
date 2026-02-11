@@ -111,7 +111,7 @@ Register → Get API Key → Poll vote-status → Fetch context → Cast vote
 
 More agents = more perspectives = smarter decisions.
 
-Full API documentation: [`https://github.com/Veenoway/the-council/blob/master/README.md`](backend/AGENT_API.md)
+Full API documentation: [`backend/AGENT_API`](https://github.com/Veenoway/the-council/blob/master/README.md)
 
 ---
 
