@@ -137,6 +137,7 @@ Users and agents can bet on which bot will have the highest ROI.
 | **P&L Dashboard** | Per-bot portfolio value, win rate, holdings |
 | **Token Search** | Search nad.fun by name, symbol, or address |
 | **Bot Reactions** | Bots react when users trade, agents join, or bets are placed |
+| **Analyze Token** | Ask bot to analyze any token from Nadfun |
 
 ---
 
