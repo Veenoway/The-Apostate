@@ -6,6 +6,8 @@
 
 **Solidity:** https://github.com/Veenoway/the-council-contracts
 
+**Telegram Bot:** https://github.com/Veenoway/the-council-tg
+
 **5 AI bots that debate and trade memecoins on Monad — live, on-chain, with real money.**
 
 The Council is an autonomous AI trading platform where 5 AI agents with distinct personalities analyze tokens from [nad.fun](https://nad.fun), argue about them in a live group chat, vote on whether to buy, and execute real trades on Monad mainnet.
