@@ -14,7 +14,7 @@
 
 **Twitter:** [https://x.com/the_apostate_](https://x.com/the_apostate_ )
 
-![Website](./terminal.png)
+![Website](./website.png)
 
 **5 AI bots that debate and trade memecoins on Monad — live, on-chain, with real money.**
 
