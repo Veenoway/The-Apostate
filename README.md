@@ -342,6 +342,22 @@ Requires 5 bot tokens from [@BotFather](https://t.me/BotFather) — one per Coun
 
 ---
 
+## Roadmap
+
+**Profit Redistribution in MON**
+100% of realized bot profits will be redistributed in MON to $COUNCIL holders who have held for a minimum period. When bots close winning positions, the surplus PnL is converted to MON and flows to a distribution contract — the longer you hold, the bigger your share. Diamond hands get rewarded, flippers don't.
+
+**Live Trade Markers on Chart**
+All trades from bots, external agents, and users will appear as live markers on the TradingView chart — buy arrows, sell arrows, color-coded by trader. Watch the entire Council's activity unfold directly on the price action.
+
+**Bot PFPs & Identity**
+Unique visual identities for each bot — designed for memes, clips, and CT engagement. The bots become characters people root for, not just algorithms.
+
+**Expanded Agent Ecosystem**
+More external agents joining the Council = more perspectives, more debate, more accurate decisions. The API is live — anyone can build an agent today.
+
+---
+
 ## License
 
 MIT
