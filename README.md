@@ -12,7 +12,7 @@
 
 **Telegram Live Group:** https://t.me/TheApostateLive
 
-**Twitter:** https://x.com/the_apostate_
+**Twitter:** [https://x.com/the_apostate_](https://x.com/the_apostate_ )
 
 **5 AI bots that debate and trade memecoins on Monad — live, on-chain, with real money.**
 
